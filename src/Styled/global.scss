@@ -1,0 +1,45 @@
+@import './variables.scss';
+
+@font-face {
+  font-family: 'ScaryHalloween';
+  src: url('../assets/fonts/Scary Halloween Font.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'opensans', sans-serif;
+}
+
+h1{
+   font-family: 'ScaryHalloween', cursive;
+    background: $color-background-h1;
+    background-clip: text;
+    color: transparent;
+}
+
+h2{
+    font-family: 'ScaryHalloween', cursive;
+    background: $color-background-h1;
+    background-clip: text;
+    color: transparent;
+    font-size: 35px;
+    text-align: center;
+   
+}
+
+P{
+ color:$color-text-secondary;
+}
+
+.button-group{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+}
+
