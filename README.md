@@ -1,16 +1,50 @@
-# React + Vite
+# 👻 Desafio de Halloween do Vai na Web! 🕸️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hoje é dia de se libertar de todos os medos — inclusive o medo de criar! 💜
+Aproveitando o clima misterioso do Halloween, trouxemos um desafio especial no Figma para vocês soltarem a imaginação, explorarem novas ideias e aproveitarem esse momento mágico de criação. ✨
+## Sobre o desafio
 
-Currently, two official plugins are available:
+Este repositório faz parte do desafio de Halloween promovido pela comunidade Vai na Web.
+O objetivo é explorar novas ideias em projetos frontend, vencer bloqueios criativos e, principalmente, compartilhar resultados com a comunidade.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🪄 Desafie-se, crie, transforme, surpreenda!
 
-## React Compiler
+O design-base do desafio pode ser acessado no Figma: [Desafio no Figma](https://www.figma.com/design/65ZsiKa1v6k7uUukIy89H7/halloween?node-id=0-1&p=f&t=FV60PQEG3fTJXbVA-0)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Como rodar o projeto
 
-## Expanding the ESLint configuration
+O template utiliza React + Vite, Sass e ESLint!
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Instale as dependências:
+```bash
+npm install
+```
+Inicie o servidor de desenvolvimento:
+```bash
+npm install
+```
+
+
+## Stack utilizada
+
+*Desenvolvimento com React*
+
+*Vite*
+
+*Sass/SCSS*
+
+*Linting com ESLint*
+
+***Consumo de design do Figma*** e adaptação visual (transformação de referência visual para código).
+
+*Versionamento com Git*
+
+
+
+
+## 🎉 Créditos
+
+Desafio proposto por @vai-na-web 💜
+
+***Solução desenvolvida por Eduarda Fonseca***
+
