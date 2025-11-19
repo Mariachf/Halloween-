@@ -1,4 +1,4 @@
-import './Button.module.scss';
+import '../Button/Button.scss';
 
 import Fantasma from './img/fantasma.png';
 import Ingressos from './img/bilhete.png';
