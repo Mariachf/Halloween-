@@ -1,5 +1,4 @@
-import 'src/Components/Button/Button.scss';
-
+import '../Button/Button.scss';
 import Fantasma from './img/fantasma.png';
 import Ingressos from './img/bilhete.png';
 
