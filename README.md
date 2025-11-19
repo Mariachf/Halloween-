@@ -1,4 +1,4 @@
-# 👻 Desafio de Halloween do Vai na Web! 🕸️
+# 👻 Desafio de Halloween do Vai na Web! @VaiNaWeb 🕸️
 
 Hoje é dia de se libertar de todos os medos — inclusive o medo de criar! 💜
 Aproveitando o clima misterioso do Halloween, trouxemos um desafio especial no Figma para vocês soltarem a imaginação, explorarem novas ideias e aproveitarem esse momento mágico de criação. ✨
